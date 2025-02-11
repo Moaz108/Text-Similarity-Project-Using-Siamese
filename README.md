@@ -4,7 +4,6 @@ Text Similarity Project Using Siamese Architecture and LSTM
 
 # Text Similarity Detection with Siamese LSTM Networks
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
 
@@ -19,13 +18,6 @@ A Siamese LSTM-based model to measure semantic similarity between pairs of sente
 - [Key Features](#key-features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data Preparation](#data-preparation)
-- [Model Architecture](#model-architecture)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ---
 
 ## Key Features
@@ -57,7 +49,7 @@ pandas==1.5.3
 scikit-learn==1.2.2
 nltk==3.8.1
 transformers==4.28.1
-Usage
+##Usage
 1. Data Preparation
 Place your dataset in data/raw/ with columns sentence1, sentence2, and label.
 
