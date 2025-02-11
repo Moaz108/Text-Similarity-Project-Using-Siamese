@@ -46,7 +46,9 @@ pandas==1.5.3
 scikit-learn==1.2.2
 nltk==3.8.1
 transformers==4.28.1
-##Usage
+
+## Usage
+
 1. Data Preparation
 Place your dataset in data/raw/ with columns sentence1, sentence2, and label.
 
@@ -107,15 +109,3 @@ Accuracy	89.2%
 Precision	88.5%
 Recall	90.1%
 F1-Score	89.3%
-Contributing
-Contributions are welcome!
-
-Fork the repository.
-
-Create a branch: git checkout -b feature/your-feature.
-
-Commit changes: git commit -m "Add your feature".
-
-Push to the branch: git push origin feature/your-feature.
-
-Submit a pull request.
