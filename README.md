@@ -9,9 +9,6 @@ Text Similarity Project Using Siamese Architecture and LSTM
 
 A Siamese LSTM-based model to measure semantic similarity between pairs of sentences. This project includes data augmentation, pre-trained embeddings, and evaluation metrics for NLP tasks.
 
-![Siamese Architecture](https://miro.medium.com/max/1400/1*NqfWUxYZEmj3l4h_4n2Dgw.png)  
-*(Example Siamese Network Architecture)*
-
 ---
 
 ## Table of Contents
